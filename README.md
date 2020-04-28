@@ -1,4 +1,4 @@
-# shoppinglist
+# Shopping List
 
 > A Vue.js project
 
